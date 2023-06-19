@@ -1,0 +1,2 @@
+# two-factor-auth
+Two-factor authentication (2FA) is the foundational element of a zero trust security model. In order to protect sensitive data, you must verify that the users trying to access that data are who they say they are. 2FA is an effective way to protect against many security threats that target user passwords and accounts, such as phishing, brute-force attacks, credential exploitation and more.
